@@ -1,0 +1,34 @@
+{
+  "name": "chat-loud",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasansiddique/chat-loud.git"
+  },
+  "keywords": [
+    "angularjs",
+    "angular-material",
+    "webapi",
+    "asp.net"
+  ],
+  "author": "Hasan Siddique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasansiddique/chat-loud/issues"
+  },
+  "homepage": "https://github.com/hasansiddique/chat-loud#readme",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^3.2.2",
+    "gulp-eslint": "^2.0.0",
+    "gulp-open": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

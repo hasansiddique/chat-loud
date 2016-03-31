@@ -1,0 +1,27 @@
+{
+  "name": "chat-loud",
+  "description": "0.0.1",
+  "main": "Gulpfile.js",
+  "authors": [
+    "Hasan Siddique"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angularjs",
+    "angular-material",
+    "webapi",
+    "asp.net"
+  ],
+  "homepage": "https://github.com/hasansiddique/chat-loud",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}

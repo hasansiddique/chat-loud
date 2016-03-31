@@ -5,6 +5,6 @@
         'app.anonymous',
         'app.authenticated',
         'app.common',
-        'app.core',
+        'app.core'
     ]);
 })(window.angular);
